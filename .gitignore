@@ -12,6 +12,11 @@
 /exercise_*/*
 !/exercise_*/README.md
 
+# ... and the mock exam folder with its placeholder README.
+!/mock_exam/
+/mock_exam/*
+!/mock_exam/README.md
+
 # ---------------------------------------------------------------------------
 # Released solutions: after each session (Wed 14:45) uncomment that week's
 # two lines, then commit and push.
@@ -54,6 +59,9 @@
 
 # !/exercise_13/solution_13_summary_zhang.md
 # !/exercise_13/images/
+
+# Mock exam: uncomment when releasing (planned after all exercises).
+# !/mock_exam/*.pdf
 
 # macOS junk anywhere
 .DS_Store
