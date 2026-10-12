@@ -1,0 +1,59 @@
+# Whitelist: only the exercise folders (with a placeholder README) are public.
+# Official problem sheets / solutions (PDF), Solution_DE.md, simulations, etc.
+# always stay local.
+
+# Ignore everything ...
+/*
+!/.gitignore
+!/README.md
+
+# ... except the exercise folders and their placeholder README.
+!/exercise_*/
+/exercise_*/*
+!/exercise_*/README.md
+
+# ---------------------------------------------------------------------------
+# Released solutions: after each session (Wed 14:45) uncomment that week's
+# two lines, then commit and push.
+# ---------------------------------------------------------------------------
+# !/exercise_01/solution_01_summary_zhang.md
+# !/exercise_01/images/
+
+# !/exercise_02/solution_02_summary_zhang.md
+# !/exercise_02/images/
+
+# !/exercise_03/solution_03_summary_zhang.md
+# !/exercise_03/images/
+
+# !/exercise_04/solution_04_summary_zhang.md
+# !/exercise_04/images/
+
+# !/exercise_05/solution_05_summary_zhang.md
+# !/exercise_05/images/
+
+# !/exercise_06/solution_06_summary_zhang.md
+# !/exercise_06/images/
+
+# !/exercise_07/solution_07_summary_zhang.md
+# !/exercise_07/images/
+
+# !/exercise_08/solution_08_summary_zhang.md
+# !/exercise_08/images/
+
+# !/exercise_09/solution_09_summary_zhang.md
+# !/exercise_09/images/
+
+# !/exercise_10/solution_10_summary_zhang.md
+# !/exercise_10/images/
+
+# !/exercise_11/solution_11_summary_zhang.md
+# !/exercise_11/images/
+
+# !/exercise_12/solution_12_summary_zhang.md
+# !/exercise_12/images/
+
+# !/exercise_13/solution_13_summary_zhang.md
+# !/exercise_13/images/
+
+# macOS junk anywhere
+.DS_Store
