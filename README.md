@@ -12,7 +12,7 @@ If you cannot access them, first check your university email inbox for the accou
 
 ```
 exercise_01/  …  exercise_13/   one folder per exercise
-    solution_xx_summary_zhang.md    my solution summary (published after the session)
+    solution_xx_summary_zhang.md    my solution summary (published before the session)
     images/                         figures used in the solution
 mock_exam/                          mock exam (published after the last exercise)
 ```
@@ -21,25 +21,8 @@ mock_exam/                          mock exam (published after the last exercise
 
 ## Release Schedule
 
-One solution is published **every Wednesday after the exercise session (from 12:15 to 14:45)**, starting with Exercise 01 on **21 October 2026**, until all 13 solutions are published.
+One solution is published **every Wednesday before the exercise session (from 12:15 to 14:45)**, starting with Exercise 01 on **21 October 2026**, until all 13 solutions are published.
 
-| Exercise | Solution released |
-|---|---|
-| Exercise 01 | Wed, 21.10.2026 |
-| Exercise 02 | Wed, 28.10.2026 |
-| Exercise 03 | Wed, 04.11.2026 |
-| Exercise 04 | Wed, 11.11.2026 |
-| Exercise 05 | Wed, 18.11.2026 |
-| Exercise 06 | Wed, 25.11.2026 |
-| Exercise 07 | Wed, 02.12.2026 |
-| Exercise 08 | Wed, 09.12.2026 |
-| Exercise 09 | Wed, 16.12.2026 |
-| Exercise 10 | Wed, 23.12.2026 |
-| Exercise 11 | Wed, 30.12.2026 |
-| Exercise 12 | Wed, 06.01.2027 |
-| Exercise 13 | Wed, 13.01.2027 |
-
-If a session is cancelled, the release moves to the next session.
 
 ---
 
@@ -48,8 +31,7 @@ If a session is cancelled, the release moves to the next session.
 The mock exam uses the **real exam from 2025**.
 
 - **Release:** currently planned for after all exercise sessions have finished. The date may still change.
-- **Format:** you take it on your own, under real exam
- conditions:
+- **Format:** you take it on your own, under real exam conditions:
   - 90 minutes
   - no phones or other electronic devices
 - **Discussion:** I will go through the mock exam in the exercise session of the following week.
@@ -58,9 +40,7 @@ The mock exam uses the **real exam from 2025**.
 
 ## A Recommendation
 
-I strongly recommend that you work through the tasks of each exercise **before** the session, on your own or with your partner. From previous years' experience, students who follow this rule tend to get **higher scores** in the final exam.
-
-This is entirely voluntary and not a requirement.
+I strongly recommend that you work through the tasks of each exercise **before** the session without any solutions from us. From previous years' experience, students who follow this rule tend to get **higher scores** in the final exam.
 
 ---
 
@@ -98,6 +78,14 @@ For the best reading experience, view the files locally in **Visual Studio Code*
 **How is this solution different from the official solution?**
 
 My solution is the slide I use in the exercise session, and it shows how I approach each task. Compared with the official solution, it goes into more detail on some tasks, for example by including the full derivation of formulas, so it is longer but with same final answers. I recommend using both together.
+
+**Which reference materials do you recommend?**
+
+Most of the exercise tasks are taken from this textbook:
+
+> D. A. Hodges, H. G. Jackson, R. A. Saleh, *Analysis and Design of Digital Integrated Circuits*, 3rd ed., McGraw-Hill, 2004.
+
+You can find it in the university library.
 
 ---
 
