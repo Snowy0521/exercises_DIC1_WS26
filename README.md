@@ -1,10 +1,19 @@
 # DIC1 Exercises – Solution Summaries
 
-This repository contains my **personal** solution summaries for the DIC1 exercise sessions.
+This repository contains my **personal** solution summaries for the DIC1 exercises:
 
-All **official** exercise sheets and solutions are available on the chair's download page: https://www.lzs.eei.fau.de/download/downloads
+- **Repo:** https://github.com/Snowy0521/exercises_DIC1_WS26
 
-If you cannot access them, first check your university email inbox for the account name and password, in case you missed them. If you still don't have access, please contact my IT colleague Peter Meisel: peter.meisel@fau.de
+**Official exercises & solutions**
+
+- Download page: https://www.lzs.eei.fau.de/download/downloads
+- Login: separate account + password from the chair
+  - **Not** your StudOn / IdM / campo account
+- How to get the login:
+  - Register for the lecture & exercises on StudOn
+  - Login is sent to your university email
+  - Not received? Check your spam folder
+- Still no access? Contact IT: Peter Meisel, peter.meisel@fau.de
 
 ---
 
@@ -12,8 +21,7 @@ If you cannot access them, first check your university email inbox for the accou
 
 ```
 exercise_01/  …  exercise_13/   one folder per exercise
-    solution_xx_summary_zhang.md    my solution summary (published before the session)
-    images/                         figures used in the solution
+    solution_xx_summary_zhang.pdf   my solution summary (published after the session)
 mock_exam/                          mock exam (published after the last exercise)
 ```
 
@@ -21,7 +29,7 @@ mock_exam/                          mock exam (published after the last exercise
 
 ## Release Schedule
 
-One solution is published **every Wednesday before the exercise session (from 12:15 to 14:45)**, starting with Exercise 01 on **21 October 2026**, until all 13 solutions are published.
+One solution is published **every Wednesday right after the exercise session (12:15–14:45)**, starting with Exercise 01 on **21 October 2026**, until all 13 solutions are published. Solutions are released *after* the session so that you can work through the tasks on your own first.
 
 
 ---
@@ -58,18 +66,6 @@ All solutions are published in this repository: https://github.com/Snowy0521/exe
   ```
 - **Option 2 – ZIP download:** on the repository page, click **Code → Download ZIP**. You need to download it again after each new release.
 
----
-
-## How to Read the Solutions
-
-All solutions are written in Markdown. GitHub's built-in Markdown renderer has limited support, so some content (e.g. advanced Markdown syntax, mathematical formulas) may not display correctly on GitHub.
-
-For the best reading experience, view the files locally in **Visual Studio Code** with the **Markdown Preview Enhanced** extension:
-
-1. Download and install Visual Studio Code: https://code.visualstudio.com/
-2. In VS Code, install the extension **Markdown Preview Enhanced**.
-3. Get the solutions (see [How to Get the Solutions](#how-to-get-the-solutions)).
-4. Open any `.md` file and use the extension's preview.
 
 ---
 
