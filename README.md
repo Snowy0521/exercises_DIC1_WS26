@@ -11,6 +11,7 @@ This repository contains my **personal** solution summaries for the DIC1 exercis
   - **Not** your StudOn / IdM / campo account
 - How to get the login:
   - Register for the lecture & exercises on StudOn
+  - Select language 
   - Login is sent to your university email
   - Not received? Check your spam folder
 - Still no access? Contact IT: Peter Meisel, peter.meisel@fau.de
